@@ -45,7 +45,7 @@ end
 
 result of FFT 
 
-![image](images/f1.jpg)
+<img src="images/f1.jpg" />
 
 ## CFAR 
 
@@ -72,7 +72,7 @@ Steps are folows:
 6. Compare the signal under CUT against this threshold.
 If the CUT level > threshold assign it a value of 1, else equate it to 0.
 
-![image](images/c1.png)
+<img src="images/c1.png" />
 
 Determine the number of training celss for each dimention and guard cells.
 
@@ -103,6 +103,6 @@ end
 
 ## Result
 
-![image](images/f2.jpg)
+<img src="images/f2.jpg" />
 
-![image](images/f3.jpg)
+<image src="images/f3.jpg" />
